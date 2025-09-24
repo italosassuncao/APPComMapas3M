@@ -4,6 +4,7 @@ plugins {
 }
 
 android {
+    namespace "com.example.appcommapas3m"
     compileSdk 31
 
     defaultConfig {
